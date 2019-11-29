@@ -1,0 +1,7 @@
+git status
+git add .  or ( add [filename] )
+git status
+git commit -m "[message]"
+git status
+git push
+git status
